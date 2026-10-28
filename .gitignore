@@ -1,0 +1,10 @@
+# Respaldos y bloqueos que crea Visual Paradigm al abrir o guardar
+*.bak_*
+*.vbak
+*.lck
+.*.lck
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
